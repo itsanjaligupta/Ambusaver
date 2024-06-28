@@ -1,0 +1,11 @@
+The problem AmbuSaver solves
+Swift Access to Emergency Services: It addresses the challenge of timely access to emergency medical services by providing a convenient online platform for booking ambulances. This ensures that users can quickly request assistance during medical emergencies without the need for lengthy phone calls or waiting on hold.
+Rapid Access to Healthcare Facilities: By leveraging GPS technology to pinpoint the user's location, the platform can quickly identify the nearest hospital.
+Real-Time Resource Availability: The platform provides valuable information on the total number of ambulances stationed at the nearest hospital. This data enables users to assess the availability of emergency medical transportation resources in their vicinity, empowering them to make informed decisions when booking an ambulance.
+Efficient Resource Allocation: By allowing users to book ambulances directly, the platform helps in optimizing the allocation of available emergency resources. It ensures that ambulances are dispatched effectively to where they are needed most, reducing response times and improving overall emergency medical service efficiency.
+Accessibility and Convenience: The platform enhances accessibility to emergency medical services, particularly for individuals with limited mobility or those residing in remote areas. By offering an easy-to-use online booking system, it ensures that anyone with internet access can quickly request ambulance assistance, regardless of their location or time of day.
+
+Challenges I ran into
+Privacy Concerns: Addressing privacy concerns related to user location tracking while ensuring compliance with data protection regulations such as GDPR or HIPAA might have required careful consideration and implementation of privacy safeguards.
+Data Accuracy and Reliability: Ensuring the accuracy and reliability of location data and hospital information, especially in dynamic environments with frequent changes in ambulance availability or hospital statuses, may have required robust data validation and synchronization mechanisms.
+User Adoption and Education: Educating users about the benefits and functionalities of the platform, as well as addressing any concerns or misconceptions related to privacy, security, and data usage, might have been necessary to ensure widespread adoption and usage.
